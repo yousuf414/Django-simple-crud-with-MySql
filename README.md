@@ -1,0 +1,1 @@
+# Django-simple-crud-with-MySql
